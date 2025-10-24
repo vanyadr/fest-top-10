@@ -78,18 +78,18 @@ a {
 /* Fonts */
 @font-face {
    font-family: "Inter";
-   src: url("/fonts/Inter-Bold.eot");
-   src: url("/fonts/Inter-Bold.eot?#iefix") format("embedded-opentype"), url("/fonts/Inter-Bold.woff2") format("woff2"),
-      url("/fonts/Inter-Bold.woff") format("woff");
+   src: url("fonts/Inter-Bold.eot");
+   src: url("fonts/Inter-Bold.eot?#iefix") format("embedded-opentype"), url("fonts/Inter-Bold.woff2") format("woff2"),
+      url("fonts/Inter-Bold.woff") format("woff");
    font-weight: bold;
    font-style: normal;
    font-display: swap;
 }
 @font-face {
    font-family: "Inter";
-   src: url("/fonts/Inter-Regular.eot");
-   src: url("/fonts/Inter-Regular.eot?#iefix") format("embedded-opentype"),
-      url("/fonts/Inter-Regular.woff2") format("woff2"), url("/fonts/Inter-Regular.woff") format("woff");
+   src: url("fonts/Inter-Regular.eot");
+   src: url("fonts/Inter-Regular.eot?#iefix") format("embedded-opentype"),
+      url("fonts/Inter-Regular.woff2") format("woff2"), url("fonts/Inter-Regular.woff") format("woff");
    font-weight: normal;
    font-style: normal;
    font-display: swap;
